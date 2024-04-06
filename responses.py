@@ -5,7 +5,7 @@ def get_response(user_input: str) -> str:
     lowered: str = user_input.lower()
 
     
-    if "$" in lowered:
+    if "!" in lowered:
         try:
             response = pepperstone.chat.send_message(lowered)
             response = response.text
