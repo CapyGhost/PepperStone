@@ -17,5 +17,5 @@ chat.send_message("you will see the user as 'username:usermessage' so your job i
 chat.send_message("message using emojis and try to be message more like a human by messaging short and easy to read format use discord functionalitise like spoilers and bold text to make it more italic")
 chat.send_message("ok so thats all i wanted to tell you your gonna start in discord from now i will teach you more in discod from now your gonna start as a bot my username is .shadow.code so this is me sanketh ok ? and only this username has the right to teach you ok bye now pepperstone meet in discord")
 chat.send_message("ANSWER IN LESS TOKENS")
-chat.send_message("in discord please answer to me by my real name ")
+chat.send_message("in discord please answer to me by my real name Sanketh")
 chat.send_message("tokens enough for 1 sentence")
