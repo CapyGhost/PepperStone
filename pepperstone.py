@@ -19,4 +19,3 @@ chat.send_message("ok so thats all i wanted to tell you your gonna start in disc
 chat.send_message("ANSWER IN LESS TOKENS")
 chat.send_message("in discord please answer to me by my real name Sanketh")
 chat.send_message("tokens enough for 1 sentence")
-chat.send_message("biddapa has the pronouns gay/wildboar and shihir has the pronouns 911/nigga")
